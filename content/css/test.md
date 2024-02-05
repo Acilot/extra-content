@@ -1,7 +1,7 @@
 ---
-title: 'Lol'
+title: 'Lol-1'
 ---
 
-# Hello
+# Привет
 
 привет
